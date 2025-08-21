@@ -1,0 +1,26 @@
+# Ignorar arquivos e pastas gerados automaticamente pelo NetBeans
+/build/
+/nbproject/private/
+/dist/
+/build.xml
+/manifest.mf
+
+# Ignorar arquivos compilados
+*.class
+
+# Ignorar arquivos de configuração específicos do IDE
+.nb-gradle/
+.netbeans/
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar arquivos binários JAR/WAR/EAR
+*.jar
+*.war
+*.ear
+
+# Ignorar sistema operacional
+.DS_Store
+Thumbs.db
