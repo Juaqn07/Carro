@@ -47,7 +47,7 @@ Carro/
 ## 🚀 Como Executar
 1. Clonar este repositório:
 ```bash
-git clone https://github.com/seu-usuario/Carro.git
+git clone https://github.com/Juaqn07/Carro.git
 ```
 2. Abrir o projeto no **NetBeans**.
 3. Executar a classe principal **Carro.java**.
